@@ -39,13 +39,13 @@ func writeFile(fname string, c func() (string, error)) error {
 }
 
 func run() error {
-	urls, err := sitemap.Fetch(context.Background(), "https://support.citrix.com/s/sitemap.xml")
+	urls, err := sitemap.Fetch(context.Background(), "https://support.citrix.com/s/sitemap-topicarticle-1.xml")
 	if err != nil {
 		return fmt.Errorf("can't fetch sitemap: %w", err)
 	}
 
 	feed := &feeds.Feed{
-		Title: "Sitemaps",
+		Title: "Citrix Support",
 		Link:  &feeds.Link{Href: "https://support.citrix.com/s/"},
 	}
 
@@ -55,11 +55,13 @@ func run() error {
 		if err != nil {
 			return fmt.Errorf("can't parse last modification date: %w", err)
 		}
-
+		
 		item := &feeds.Item{
 			Id:      url.Location,
 			Link:    &feeds.Link{Href: url.Location},
 			Updated: updated,
+			Title: url.Location,
+
 		}
 		feed.Add(item)
 	}
