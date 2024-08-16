@@ -3,7 +3,8 @@
 
 # sitemap2feed
 
-Minimal Go CLI boilerplate/template with zero dependencies
+Minimal Go CLI boilerplate/template with zero dependencies. 
+
 Currently coinfigured for support.citrix.com sitemap and roberty99 github repository
 
 ## Features
