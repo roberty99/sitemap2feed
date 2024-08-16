@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sitemaps</title>
+  <id>https://support.citrix.com/s/</id>
+  <updated></updated>
+  <link href="https://support.citrix.com/s/"></link>
+  <entry>
+    <title></title>
+    <updated>2024-07-13T18:18:00Z</updated>
+    <id>https://support.citrix.com/s/article/CTX462375-client-detection-fails-through-adc-but-works-through-storefront?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX462375-client-detection-fails-through-adc-but-works-through-storefront?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-07-13T18:19:27Z</updated>
+    <id>https://support.citrix.com/s/article/CTX461973-stig-v218773-recycling-iis-app-pools-on-storefront-servers?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX461973-stig-v218773-recycling-iis-app-pools-on-storefront-servers?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-08-06T12:27:30Z</updated>
+    <id>https://support.citrix.com/s/article/CTX461465-with-the-pvs-console-installed-powershell-cmdlets-targeting-onprem-ddcs-prompt-for-cloud-login?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX461465-with-the-pvs-console-installed-powershell-cmdlets-targeting-onprem-ddcs-prompt-for-cloud-login?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-07-13T18:20:02Z</updated>
+    <id>https://support.citrix.com/s/article/CTX461397-citrix-hypervisor-security-bulletin-for-cve202223825-and-cve202229900?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX461397-citrix-hypervisor-security-bulletin-for-cve202223825-and-cve202229900?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-07-13T18:19:27Z</updated>
+    <id>https://support.citrix.com/s/article/CTX461323-while-using-fas-application-launch-fails-with-error-cannot-start-app-application-name?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX461323-while-using-fas-application-launch-fails-with-error-cannot-start-app-application-name?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-07-13T18:18:46Z</updated>
+    <id>https://support.citrix.com/s/article/CTX461284-pvs-failed-to-connect-to-the-pvs-api-error-unable-to-connect-to-the-remote-server?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX461284-pvs-failed-to-connect-to-the-pvs-api-error-unable-to-connect-to-the-remote-server?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-07-14T11:17:24Z</updated>
+    <id>https://support.citrix.com/s/article/CTX460921-how-to-apply-pooled-licenses-to-citrix-adm?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX460921-how-to-apply-pooled-licenses-to-citrix-adm?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+  <entry>
+    <title></title>
+    <updated>2024-07-13T18:19:27Z</updated>
+    <id>https://support.citrix.com/s/article/CTX460312-intermittent-session-launch-failure-with-activeactive-storefront-server-groups?language=en_US</id>
+    <link href="https://support.citrix.com/s/article/CTX460312-intermittent-session-launch-failure-with-activeactive-storefront-server-groups?language=en_US" rel="alternate"></link>
+    <summary type="html"></summary>
+  </entry>
+</feed>
