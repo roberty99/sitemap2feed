@@ -51,7 +51,7 @@ func run() error {
 
 	for _, url := range urls {
 		log.Println(url.LastModification, url.Location)
-		updated, err := time.Parse("2006-01-02", url.LastModification.String())
+		updated, err := time.Parse("2006-01-02T15:04:05Z07:00", url.LastModification.String())
 		if err != nil {
 			return fmt.Errorf("can't parse last modification date: %w", err)
 		}
