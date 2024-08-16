@@ -1,4 +1,4 @@
-module github.com/midzer/sitemap2feed
+module github.com/roberty99/sitemap2feed
 
 go 1.19
 
